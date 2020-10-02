@@ -3,6 +3,10 @@
 Coded and Decoded by : Yash Kapoor
 
 */
+
+// Solution for problem - https://www.codechef.com/LRNDSA08/problems/ACM14KG3
+
+
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
 using namespace __gnu_pbds;
